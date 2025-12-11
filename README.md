@@ -13,10 +13,6 @@ This GUI app lets users:
 - Add a custom logo in the center of the QR Code
 - Save the generated QR image
 
-```python
-# Full GUI code here...
-# (Refer to script provided above in your environment)
-```
 
 ## 💾 Features
 
