@@ -33,6 +33,6 @@ This GUI app lets users:
 etap1
  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/ccfa7003b46e674f7048e04521966c09048dd71e/lien%20code%20qr.PNG)
 etap2
- ![Image Alt]()
+ ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/746299c2b73ae205f5412f907e6212e05f053d7d/lien.PNG)
 etap3
  ![Image Alt]()
