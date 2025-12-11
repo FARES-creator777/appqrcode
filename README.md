@@ -31,7 +31,7 @@ This GUI app lets users:
 - Add QR codes to product packaging
 
 etap1
- ![Image Alt]()
+ ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/ccfa7003b46e674f7048e04521966c09048dd71e/lien%20code%20qr.PNG)
 etap2
  ![Image Alt]()
 etap3
