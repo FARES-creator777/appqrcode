@@ -1,0 +1,35 @@
+
+# 🧾 QR Code Generator in Python (with GUI)
+
+
+
+we create **QR Code Generator** using Python. start with a basic script and then level up by adding a **Graphical User Interface (GUI)** using `Tkinter`. You can even customize the **colors** and **embed logos** into your QR codes!
+
+---
+
+This GUI app lets users:
+- Input text or URLs
+- Choose fill and background colors
+- Add a custom logo in the center of the QR Code
+- Save the generated QR image
+
+```python
+# Full GUI code here...
+# (Refer to script provided above in your environment)
+```
+
+## 💾 Features
+
+- ✅ Custom text/URL input
+- 🎨 Choose fill and background colors
+- 🖼️ Add a logo/image
+- 💾 Save QR as PNG
+
+---
+
+## 🧠 Fun Ideas
+
+- Generate QR for business cards
+- Use it in event badges
+- Share WiFi credentials
+- Add QR codes to product packaging
