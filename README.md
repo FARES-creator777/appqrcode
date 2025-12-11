@@ -29,3 +29,10 @@ This GUI app lets users:
 - Use it in event badges
 - Share WiFi credentials
 - Add QR codes to product packaging
+
+etap1
+ ![Image Alt]()
+etap2
+ ![Image Alt]()
+etap3
+ ![Image Alt]()
