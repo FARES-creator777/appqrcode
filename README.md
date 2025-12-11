@@ -36,5 +36,5 @@ This GUI app lets users:
  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/746299c2b73ae205f5412f907e6212e05f053d7d/lien.PNG)
 ##etap3
  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/428be222dadf10e5b06127714f5d8317ba6a0853/gui%20color.PNG)
- ##etap4
-  ![Image Alt]()
+ ##etap4 SCANNER MOI PLZ
+  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/4abfe8f83d0233809f257f8d5423f36fbd9c3e73/qr%20code%20app%20create.png)
