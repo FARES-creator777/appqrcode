@@ -30,9 +30,11 @@ This GUI app lets users:
 - Share WiFi credentials
 - Add QR codes to product packaging
 
-etap1
+##etap1
  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/ccfa7003b46e674f7048e04521966c09048dd71e/lien%20code%20qr.PNG)
-etap2
+##etap2
  ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/746299c2b73ae205f5412f907e6212e05f053d7d/lien.PNG)
-etap3
- ![Image Alt]()
+##etap3
+ ![Image Alt](https://github.com/FARES-creator777/appqrcode/blob/428be222dadf10e5b06127714f5d8317ba6a0853/gui%20color.PNG)
+ ##etap4
+  ![Image Alt]()
